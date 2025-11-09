@@ -51,5 +51,3 @@ The goal is to prevent overdue fines and make the library experience seamless th
 
 ---
 
-## System Architecture
-
