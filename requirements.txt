@@ -1,0 +1,18 @@
+# Web Scraping Dependencies
+selenium>=4.0.0
+playwright>=1.40.0
+
+# Google Calendar API dependencies (for add_to_calendar.py and auto_calendar_reminder.py)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# Google Gemini AI API dependencies (for gemini_api.py)
+google-generativeai>=0.3.0
+
+# Flask API Server dependencies (for gemini_api.py)
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Standard library dependencies (usually included, but listed for completeness)
+# json, os, csv, datetime, time, sys - all built-in Python modules

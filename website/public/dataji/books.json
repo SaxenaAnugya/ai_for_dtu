@@ -1,0 +1,187 @@
+{
+  "BTech": {
+    "CSE": {
+      "Year 1": {
+        "Semester 1": {
+          "Mathematics I": [
+            {"title": "Engineering Mathematics Vol. 1", "author": "B.S. Grewal", "publisher": "Khanna"},
+            {"title": "Advanced Engineering Mathematics", "author": "Erwin Kreyszig", "publisher": "Wiley"},
+            {"title": "Mathematics for Engineers", "author": "A. Croft", "publisher": "Pearson"},
+            {"title": "Calculus and Analytic Geometry", "author": "Thomas & Finney", "publisher": "Pearson"},
+            {"title": "Linear Algebra and Applications", "author": "Gilbert Strang", "publisher": "Cengage"},
+            {"title": "Differential Equations", "author": "Dennis Zill", "publisher": "Cengage"},
+            {"title": "Engineering Mathematics", "author": "K.A. Stroud", "publisher": "Palgrave"},
+            {"title": "Applied Mathematics", "author": "H.K. Dass", "publisher": "S. Chand"},
+            {"title": "Discrete Mathematics", "author": "Kenneth Rosen", "publisher": "McGraw-Hill"},
+            {"title": "Probability and Statistics", "author": "Jay Devore", "publisher": "Cengage"}
+          ],
+          "Programming Fundamentals (C)": [
+            {"title": "Let Us C", "author": "Yashwant Kanetkar", "publisher": "BPB"},
+            {"title": "Programming in ANSI C", "author": "E. Balagurusamy", "publisher": "Tata McGraw Hill"},
+            {"title": "The C Programming Language", "author": "Kernighan & Ritchie", "publisher": "Prentice Hall"},
+            {"title": "Head First C", "author": "David Griffiths", "publisher": "O'Reilly"},
+            {"title": "C in Depth", "author": "Deepali Srivastava", "publisher": "BPB"},
+            {"title": "Expert C Programming", "author": "Peter van der Linden", "publisher": "Pearson"},
+            {"title": "C Programming: A Modern Approach", "author": "K.N. King", "publisher": "Norton"},
+            {"title": "Programming with C", "author": "Byron Gottfried", "publisher": "McGraw Hill"},
+            {"title": "Practical C Programming", "author": "Steve Oualline", "publisher": "O'Reilly"},
+            {"title": "Mastering Algorithms with C", "author": "Kyle Loudon", "publisher": "O'Reilly"}
+          ],
+          "Physics": [
+            {"title": "Engineering Physics", "author": "H.K. Malik & A.K. Singh", "publisher": "McGraw Hill"},
+            {"title": "Concepts of Modern Physics", "author": "Arthur Beiser", "publisher": "McGraw Hill"},
+            {"title": "Fundamentals of Physics", "author": "Halliday, Resnick, Walker", "publisher": "Wiley"},
+            {"title": "Optics", "author": "Ajoy Ghatak", "publisher": "McGraw Hill"},
+            {"title": "Solid State Physics", "author": "M.A. Wahab", "publisher": "Narosa"},
+            {"title": "Applied Physics", "author": "P.K. Mittal", "publisher": "I.K. International"},
+            {"title": "Physics for Engineers", "author": "N.K. Verma", "publisher": "PHI"},
+            {"title": "Modern Physics for Scientists and Engineers", "author": "Thornton & Rex", "publisher": "Pearson"},
+            {"title": "Engineering Physics", "author": "R.K. Gaur & S.L. Gupta", "publisher": "Dhanpat Rai"},
+            {"title": "Introduction to Electrodynamics", "author": "David J. Griffiths", "publisher": "Pearson"}
+          ]
+        },
+        "Semester 2": {
+          "Mathematics II": [
+            {"title": "Advanced Engineering Mathematics", "author": "Erwin Kreyszig", "publisher": "Wiley"},
+            {"title": "Engineering Mathematics Vol. 2", "author": "B.S. Grewal", "publisher": "Khanna"},
+            {"title": "Vector Calculus", "author": "Murray Spiegel", "publisher": "McGraw Hill"},
+            {"title": "Differential Equations for Engineers", "author": "Zill", "publisher": "Cengage"},
+            {"title": "Partial Differential Equations", "author": "Schaum Series", "publisher": "McGraw Hill"},
+            {"title": "Transform Calculus", "author": "Loney", "publisher": "Macmillan"},
+            {"title": "Linear Algebra", "author": "Hoffman & Kunze", "publisher": "Pearson"},
+            {"title": "Numerical Methods", "author": "S.S. Sastry", "publisher": "PHI"},
+            {"title": "Probability and Statistics", "author": "Walpole", "publisher": "Pearson"},
+            {"title": "Engineering Mathematics", "author": "K.A. Stroud", "publisher": "Palgrave"}
+          ],
+          "Data Structures": [
+            {"title": "Data Structures Using C", "author": "Reema Thareja", "publisher": "Oxford"},
+            {"title": "Data Structures and Algorithms in C", "author": "S. Lipschutz", "publisher": "McGraw Hill"},
+            {"title": "Data Structures: A Pseudocode Approach", "author": "Gilberg & Forouzan", "publisher": "Cengage"},
+            {"title": "Data Structures and Algorithms", "author": "Narasimha Karumanchi", "publisher": "CareerMonk"},
+            {"title": "Algorithms in C", "author": "Robert Sedgewick", "publisher": "Pearson"},
+            {"title": "Fundamentals of Data Structures", "author": "Ellis Horowitz", "publisher": "Galgotia"},
+            {"title": "Introduction to Algorithms", "author": "Cormen et al.", "publisher": "MIT Press"},
+            {"title": "Data Structures Through C", "author": "Yashwant Kanetkar", "publisher": "BPB"},
+            {"title": "Algorithm Design Manual", "author": "Steven Skiena", "publisher": "Springer"},
+            {"title": "Classic Data Structures", "author": "D. Samanta", "publisher": "PHI"}
+          ]
+        }
+      },
+      "Year 2": {
+        "Semester 3": {
+          "Computer Organization": [
+            {"title": "Computer System Architecture", "author": "M. Mano", "publisher": "Pearson"},
+            {"title": "Computer Organization", "author": "Carl Hamacher", "publisher": "McGraw Hill"},
+            {"title": "Computer Architecture and Design", "author": "Patterson & Hennessy", "publisher": "Morgan Kaufmann"},
+            {"title": "Structured Computer Organization", "author": "Andrew Tanenbaum", "publisher": "Pearson"},
+            {"title": "Digital Logic Design", "author": "M. Morris Mano", "publisher": "Pearson"},
+            {"title": "Logic and Computer Design Fundamentals", "author": "Floyd", "publisher": "Pearson"},
+            {"title": "Computer Organization", "author": "William Stallings", "publisher": "Pearson"},
+            {"title": "Modern Processor Design", "author": "Shen & Lipasti", "publisher": "McGraw Hill"},
+            {"title": "Fundamentals of Computer Organization", "author": "V. Rajaraman", "publisher": "PHI"},
+            {"title": "Digital Design", "author": "John Wakerly", "publisher": "Pearson"}
+          ]
+        }
+      }
+    },
+    "ECE": {
+      "Year 1": {
+        "Semester 1": {
+          "Basic Electrical Engineering": [
+            {"title": "Basic Electrical Engineering", "author": "V.K. Mehta", "publisher": "S. Chand"},
+            {"title": "Electrical Technology", "author": "B.L. Theraja", "publisher": "S. Chand"},
+            {"title": "Fundamentals of Electrical Engineering", "author": "Rajendra Prasad", "publisher": "PHI"},
+            {"title": "Principles of Electrical Engineering", "author": "Del Toro", "publisher": "Prentice Hall"},
+            {"title": "Basic Electrical Engineering", "author": "Nagrath & Kothari", "publisher": "Tata McGraw Hill"},
+            {"title": "Electrical Circuits", "author": "Hayt & Kemmerly", "publisher": "McGraw Hill"},
+            {"title": "Electrical Engineering Fundamentals", "author": "Bobrow", "publisher": "Oxford"},
+            {"title": "Basic Electrical Engineering", "author": "C.L. Wadhwa", "publisher": "New Age"},
+            {"title": "Introduction to Electric Circuits", "author": "Dorf & Svoboda", "publisher": "Wiley"},
+            {"title": "Basic Electrical and Electronics Engineering", "author": "S.K. Bhattacharya", "publisher": "Pearson"}
+          ]
+        }
+      }
+    },
+    "AIML": {
+      "Year 2": {
+        "Semester 3": {
+          "Artificial Intelligence": [
+            {"title": "Artificial Intelligence: A Modern Approach", "author": "Russell & Norvig", "publisher": "Pearson"},
+            {"title": "Fundamentals of Artificial Intelligence", "author": "Nils Nilsson", "publisher": "Morgan Kaufmann"}
+          ],
+          "Machine Learning": [
+            {"title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow", "author": "Aurélien Géron", "publisher": "O'Reilly"},
+            {"title": "Pattern Recognition and Machine Learning", "author": "Christopher Bishop", "publisher": "Springer"}
+          ]
+        },
+        "Semester 4": {
+          "Deep Learning": [
+            {"title": "Deep Learning", "author": "Ian Goodfellow", "publisher": "MIT Press"},
+            {"title": "Neural Networks and Learning Machines", "author": "Simon Haykin", "publisher": "Pearson"}
+          ],
+          "Natural Language Processing": [
+            {"title": "Speech and Language Processing", "author": "Jurafsky & Martin", "publisher": "Pearson"},
+            {"title": "Practical NLP", "author": "Sowmya Vajjala", "publisher": "O'Reilly"}
+          ]
+        }
+      }
+    },
+    "DS": {
+      "Year 2": {
+        "Semester 3": {
+          "Data Mining": [
+            {"title": "Data Mining: Concepts and Techniques", "author": "Han, Kamber & Pei", "publisher": "Morgan Kaufmann"},
+            {"title": "Introduction to Data Mining", "author": "Pang-Ning Tan", "publisher": "Pearson"}
+          ],
+          "Statistics for Data Science": [
+            {"title": "Practical Statistics for Data Scientists", "author": "Peter Bruce", "publisher": "O'Reilly"},
+            {"title": "The Elements of Statistical Learning", "author": "Hastie, Tibshirani, Friedman", "publisher": "Springer"}
+          ]
+        }
+      }
+    },
+    "RA": {
+      "Year 3": {
+        "Semester 5": {
+          "Robotics": [
+            {"title": "Introduction to Robotics: Mechanics and Control", "author": "John Craig", "publisher": "Pearson"},
+            {"title": "Robotics: Modelling, Planning and Control", "author": "Siciliano & Khatib", "publisher": "Springer"}
+          ],
+          "Control Systems": [
+            {"title": "Modern Control Engineering", "author": "Ogata", "publisher": "Pearson"},
+            {"title": "Control Systems Engineering", "author": "Nagrath & Gopal", "publisher": "New Age"}
+          ]
+        }
+      }
+    },
+    "CHE": {
+      "Year 2": {
+        "Semester 3": {
+          "Chemical Process Calculations": [
+            {"title": "Elementary Principles of Chemical Processes", "author": "Felder & Rousseau", "publisher": "Wiley"},
+            {"title": "Stoichiometry", "author": "Bhatt & Vora", "publisher": "McGraw Hill"}
+          ],
+          "Fluid Mechanics": [
+            {"title": "Fluid Mechanics", "author": "Frank M. White", "publisher": "McGraw Hill"},
+            {"title": "Transport Processes and Unit Operations", "author": "Geankoplis", "publisher": "Pearson"}
+          ]
+        }
+      }
+    },
+    "AE": {
+      "Year 3": {
+        "Semester 5": {
+          "Aerodynamics": [
+            {"title": "Fundamentals of Aerodynamics", "author": "John D. Anderson", "publisher": "McGraw Hill"},
+            {"title": "Aerodynamics for Engineers", "author": "Bertin & Cummings", "publisher": "Pearson"}
+          ],
+          "Aircraft Structures": [
+            {"title": "Aircraft Structures for Engineering Students", "author": "T.H.G. Megson", "publisher": "Butterworth-Heinemann"},
+            {"title": "Mechanics of Aircraft Structures", "author": "Niu", "publisher": "McGraw Hill"}
+          ]
+        }
+      }
+    }
+  }
+}
+
